@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: auth-sample
-  security:
-    user:
-      name: hoge
-      password: hoge
-      roles: []
